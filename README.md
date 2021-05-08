@@ -4,7 +4,9 @@ This project was made by Rajan Gautam using Django, React and Bootstrap.
 
 ## Steps to Run the Application
 
-Pull the repository into your device and run it as you used to run Django Application. (You may need to install 'requirements.txt' if you don't have these already)
+Pull the repository into your device and run it as you used to run Django Application.
+(You may need to install 'requirements.txt' if you don't have these already)
+(You also need to build React Application as it has been ignored in git.)
 
 ### Step 1:
 
