@@ -52,7 +52,7 @@ You can follow these URLs to perform those action.
 
 'Delete': '/task-delete/<str:pk>'
 
-![Django-React-ToDo-App-5](https://user-images.githubusercontent.com/71542496/117533194-2365cb00-b009-11eb-8655-69787c8fb268.png)
+![Task-–-Django-REST-framework-1](https://user-images.githubusercontent.com/71542496/117534009-409c9880-b00d-11eb-9bae-3f7ea2bc6a9e.png)
 
 ### Step 6:
 
