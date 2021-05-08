@@ -38,11 +38,11 @@ You can add item, delete item, edit item, view specific item etc. on Django REST
 
 You can follow these URLs to perform those action.
 
-'List': '/task-list/',
-'Detail View': '/task-detail/<str:pk>/',
-'Create': '/task-create/',
-'Update': '/task-update/<str:pk>',
-'Delete': '/task-delete/<str:pk>',
+'List': '/task-list/'
+'Detail View': '/task-detail/<str:pk>/'
+'Create': '/task-create/'
+'Update': '/task-update/<str:pk>'
+'Delete': '/task-delete/<str:pk>'
 
 ![Django-React-ToDo-App-5](https://user-images.githubusercontent.com/71542496/117533194-2365cb00-b009-11eb-8655-69787c8fb268.png)
 
